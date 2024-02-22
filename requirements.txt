@@ -1,0 +1,4 @@
+astro-sdk-python[amazon,databricks,duckdb,google,postgres,snowflake]==1.5.3
+
+apache-airflow-providers-google==10.14.0
+pymysql==1.1.0rc2
